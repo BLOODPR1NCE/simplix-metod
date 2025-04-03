@@ -1,0 +1,28 @@
+X:\max\csharp\simplix-metod\simplix-metod\bin\Debug\net8.0\simplix-metod.exe
+X:\max\csharp\simplix-metod\simplix-metod\bin\Debug\net8.0\simplix-metod.deps.json
+X:\max\csharp\simplix-metod\simplix-metod\bin\Debug\net8.0\simplix-metod.runtimeconfig.json
+X:\max\csharp\simplix-metod\simplix-metod\bin\Debug\net8.0\simplix-metod.dll
+X:\max\csharp\simplix-metod\simplix-metod\bin\Debug\net8.0\simplix-metod.pdb
+X:\max\csharp\simplix-metod\simplix-metod\obj\Debug\net8.0\simplix-metod.GeneratedMSBuildEditorConfig.editorconfig
+X:\max\csharp\simplix-metod\simplix-metod\obj\Debug\net8.0\simplix-metod.AssemblyInfoInputs.cache
+X:\max\csharp\simplix-metod\simplix-metod\obj\Debug\net8.0\simplix-metod.AssemblyInfo.cs
+X:\max\csharp\simplix-metod\simplix-metod\obj\Debug\net8.0\simplix-metod.csproj.CoreCompileInputs.cache
+X:\max\csharp\simplix-metod\simplix-metod\obj\Debug\net8.0\simplix-metod.dll
+X:\max\csharp\simplix-metod\simplix-metod\obj\Debug\net8.0\refint\simplix-metod.dll
+X:\max\csharp\simplix-metod\simplix-metod\obj\Debug\net8.0\simplix-metod.pdb
+X:\max\csharp\simplix-metod\simplix-metod\obj\Debug\net8.0\simplix-metod.genruntimeconfig.cache
+X:\max\csharp\simplix-metod\simplix-metod\obj\Debug\net8.0\ref\simplix-metod.dll
+E:\vs projects\simplix-metod\simplix-metod\bin\Debug\net8.0\simplix-metod.exe
+E:\vs projects\simplix-metod\simplix-metod\bin\Debug\net8.0\simplix-metod.deps.json
+E:\vs projects\simplix-metod\simplix-metod\bin\Debug\net8.0\simplix-metod.runtimeconfig.json
+E:\vs projects\simplix-metod\simplix-metod\bin\Debug\net8.0\simplix-metod.dll
+E:\vs projects\simplix-metod\simplix-metod\bin\Debug\net8.0\simplix-metod.pdb
+E:\vs projects\simplix-metod\simplix-metod\obj\Debug\net8.0\simplix-metod.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs projects\simplix-metod\simplix-metod\obj\Debug\net8.0\simplix-metod.AssemblyInfoInputs.cache
+E:\vs projects\simplix-metod\simplix-metod\obj\Debug\net8.0\simplix-metod.AssemblyInfo.cs
+E:\vs projects\simplix-metod\simplix-metod\obj\Debug\net8.0\simplix-metod.csproj.CoreCompileInputs.cache
+E:\vs projects\simplix-metod\simplix-metod\obj\Debug\net8.0\simplix-metod.dll
+E:\vs projects\simplix-metod\simplix-metod\obj\Debug\net8.0\refint\simplix-metod.dll
+E:\vs projects\simplix-metod\simplix-metod\obj\Debug\net8.0\simplix-metod.pdb
+E:\vs projects\simplix-metod\simplix-metod\obj\Debug\net8.0\simplix-metod.genruntimeconfig.cache
+E:\vs projects\simplix-metod\simplix-metod\obj\Debug\net8.0\ref\simplix-metod.dll
